@@ -1,1 +1,1 @@
-# This is my cv website that I created while learning HTML
+# This is my cv website that I created while learning HTML.
